@@ -1,0 +1,27 @@
+[Thu Apr 18 12:27:43 2019] 127.0.0.1:35430 [200]: /nearyou/
+[Thu Apr 18 12:28:08 2019] 127.0.0.1:35431 [200]: /nearyou/
+[Thu Apr 18 12:28:09 2019] 127.0.0.1:35432 [200]: /nearyou/css/main.css
+[Thu Apr 18 12:28:09 2019] 127.0.0.1:35433 [200]: /nearyou/js/main.js
+[Thu Apr 18 12:28:09 2019] 127.0.0.1:35434 [200]: /nearyou/js/location.js
+[Thu Apr 18 12:28:10 2019] 127.0.0.1:35435 [200]: /nearyou/js/info.js
+[Thu Apr 18 12:28:10 2019] 127.0.0.1:35436 [200]: /nearyou/js/warpspeed.min.js
+[Thu Apr 18 12:28:22 2019] 127.0.0.1:35437 [200]: /nearyou/php/error.php
+[Thu Apr 18 12:28:30 2019] 127.0.0.1:35438 [200]: /nearyou/php/error.php
+[Thu Apr 18 12:28:30 2019] 127.0.0.1:35439 [200]: /nearyou/php/info.php
+[Thu Apr 18 12:28:33 2019] 127.0.0.1:35440 [200]: /nearyou/php/error.php
+[Thu Apr 18 12:28:42 2019] 127.0.0.1:35441 [200]: /nearyou/php/error.php
+[Thu Apr 18 12:28:43 2019] 127.0.0.1:35442 [200]: /nearyou/php/error.php
+[Thu Apr 18 12:28:45 2019] 127.0.0.1:35443 [200]: /nearyou/
+[Thu Apr 18 12:28:47 2019] 127.0.0.1:35444 [200]: /nearyou/css/main.css
+[Thu Apr 18 12:28:47 2019] 127.0.0.1:35445 [200]: /nearyou/js/main.js
+[Thu Apr 18 12:28:47 2019] 127.0.0.1:35446 [200]: /nearyou/js/location.js
+[Thu Apr 18 12:28:47 2019] 127.0.0.1:35447 [200]: /nearyou/js/info.js
+[Thu Apr 18 12:28:48 2019] 127.0.0.1:35448 [200]: /nearyou/js/warpspeed.min.js
+[Thu Apr 18 12:28:50 2019] 127.0.0.1:35449 [200]: /nearyou/php/info.php
+[Thu Apr 18 12:28:52 2019] 127.0.0.1:35450 [200]: /nearyou/php/error.php
+[Thu Apr 18 12:28:59 2019] 127.0.0.1:35451 [200]: /nearyou/php/error.php
+[Thu Apr 18 12:29:10 2019] 127.0.0.1:35452 [200]: /nearyou/php/error.php
+PHP 7.3.4 Development Server started at Thu Apr 18 12:27:24 2019
+Listening on http://127.0.0.1:8080
+Document root is /data/data/com.termux/files/home/GPS-location/Gray
+Press Ctrl-C to quit.

@@ -1,0 +1,56 @@
+#!../usr/bin/bash
+clear
+
+
+echo "$C($W*$C)$W Descargandoo repositorios"
+
+if [ -e /data/data/com.termux/files/home ]; then
+
+echo -e "$C($W*$C)$W Instalando actualizasiones.."
+	pkg update && pkg upgrade 
+echo -e "$C($W*$C)$W Instalando python2..."
+	pkg -y install python2
+echo -e "$C($W*$C)$W Instalando PHP..."
+	pkg -y install php 
+echo -e "$C($W*$C)$W Instalando wget.."
+	pkg -y install wget 
+echo -e "$C($W*$C)$W Instalando unzip..."
+	pkg -y install unzip 
+echo -e "$C($W*$C)$W Instalando openssh.."
+	pkg -y install openssh 
+echo -e "$C($W*$C)$W Instalando requisito.."
+	pip install requests 
+echo -e "$C($W*$C)$W Brindando modos..."
+chmod 777 ~/GPS-location/Gray/nearyou/php/result.txt
+chmod 777 ~/GPS-location/Gray/nearyou/php/info.txt
+chmod 777 ~/GPS-location/GPS.py
+
+
+exit 3
+else
+
+echo -e "$C($W*$C)$W Instalando actualizasiones.."
+apt-get update && apt-get upgrade
+echo -e "$C($W*$C)$W Instalando python2..."
+apt-get -y install python2
+echo -e "$C($W*$C)$W Instalando PHP..."
+apt-get -y install php 
+echo -e "$C($W*$C)$W Instalando wget.."
+apt-get -y install wget 
+echo -e "$C($W*$C)$W Instalando unzip.."
+apt-get -y install unzip 
+echo -e "$C($W*$C)$W Instalando openssh.."
+apt-get -y install openssh
+echo -e "$C($W*$C)$W Instalando requisito.."
+pip install requests
+echo -e "$C($W*$C)$W Brindando modos..."
+chmod 777 ~/GPS-location/Gray/nearyou/php/result.txt
+chmod 777 ~/GPS-location/Gray/nearyou/php/info.txt
+chmod 777 ~/GPS-location/GPS.py
+
+fi
+
+echo -e "$C($W*$C)$W Fenalizado"
+sleep 2
+echo
+echo
